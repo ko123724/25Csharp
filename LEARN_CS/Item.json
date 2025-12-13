@@ -1,0 +1,50 @@
+[
+  {
+    "LABEL ": 1,
+    "ITEM NAME": "도란의검",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 10
+  },
+  {
+    "LABEL ": 2,
+    "ITEM NAME": "도란의방패",
+    "STAT NAME": "체력",
+    "STAT VALUE": 110
+  },
+  {
+    "LABEL ": 3,
+    "ITEM NAME": "수확의낫",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 7
+  },
+  {
+    "LABEL ": 4,
+    "ITEM NAME": "처형인의대검",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 15
+  },
+  {
+    "LABEL ": 5,
+    "ITEM NAME": "흡혈의낫",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 15
+  },
+  {
+    "LABEL ": 6,
+    "ITEM NAME": "콜필드의전투망치",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 20
+  },
+  {
+    "LABEL ": 7,
+    "ITEM NAME": "온기가필요한자의도끼",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 20
+  },
+  {
+    "LABEL ": 8,
+    "ITEM NAME": "열정의검",
+    "STAT NAME": "공격속도",
+    "STAT VALUE": "15%"
+  }
+]

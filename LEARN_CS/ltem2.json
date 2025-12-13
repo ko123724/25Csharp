@@ -1,0 +1,66 @@
+[
+  {
+    "LABEL": 1,
+    "ITEM NAME": "눈물나는 양파",
+    "STAT NAME": "공격속도",
+    "STAT VALUE": 0.7,
+    "Rating": 3,
+    "ID ": 1
+  },
+  {
+    "LABEL": 2,
+    "ITEM NAME": "내면의눈",
+    "STAT NAME": "공격속도",
+    "STAT VALUE": "                      x0.51",
+    "Rating": 2,
+    "ID ": 2
+  },
+  {
+    "LABEL": 3,
+    "ITEM NAME": "크리켓의 머리",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 0.5,
+    "Rating": 4,
+    "ID ": 4
+  },
+  {
+    "LABEL": 4,
+    "ITEM NAME": "거울상",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 1.5,
+    "Rating": 2,
+    "ID ": 5
+  },
+  {
+    "LABEL": 5,
+    "ITEM NAME": "오줌싸개",
+    "STAT NAME": "공격속도",
+    "STAT VALUE": 1.5,
+    "Rating": 2,
+    "ID ": 6
+  },
+  {
+    "LABEL": 6,
+    "ITEM NAME": "순교자의 피",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 1,
+    "Rating": 3,
+    "ID ": 7
+  },
+  {
+    "LABEL": 7,
+    "ITEM NAME": "보비형",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 3.5,
+    "Rating": 1,
+    "ID ": 8
+  },
+  {
+    "LABEL": 8,
+    "ITEM NAME": "요술버섯",
+    "STAT NAME": "이동속도",
+    "STAT VALUE": 0.3,
+    "Rating": 4,
+    "ID ": 12
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\ltem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|solutionrelative:ltem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\ltem2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|solutionrelative:ltem2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\item.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|solutionrelative:item.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ltem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\ltem.cs",
+              "RelativeDocumentMoniker": "ltem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\ltem.cs",
+              "RelativeToolTip": "ltem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:06:15.142Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAtwB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:33:21.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ltem2.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\ltem2.json",
+              "RelativeDocumentMoniker": "ltem2.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\ltem2.json",
+              "RelativeToolTip": "ltem2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T08:32:26.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\Item.json",
+              "RelativeDocumentMoniker": "Item.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\Item.json",
+              "RelativeToolTip": "Item.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T07:13:53.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:20:29.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
