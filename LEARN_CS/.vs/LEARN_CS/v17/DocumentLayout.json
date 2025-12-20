@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\ltem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|solutionrelative:ltem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39DAA027-CA24-4B5B-B783-0CE4630DFB83}|..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj|c:\\users\\administrator\\desktop\\25csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39DAA027-CA24-4B5B-B783-0CE4630DFB83}|..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj|c:\\users\\administrator\\desktop\\25csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DAA027-CA24-4B5B-B783-0CE4630DFB83}|..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj|c:\\users\\administrator\\desktop\\25csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DAA027-CA24-4B5B-B783-0CE4630DFB83}|..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj|c:\\users\\administrator\\desktop\\25csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\item.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\ltem2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,8 +23,22 @@
       "RelativeMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|solutionrelative:item.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{39DAA027-CA24-4B5B-B783-0CE4630DFB83}|..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj|c:\\users\\administrator\\desktop\\25csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DAA027-CA24-4B5B-B783-0CE4630DFB83}|..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj|c:\\users\\administrator\\desktop\\25csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\ltem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C6FD7-7F03-49AA-A474-0DD52726E681}|LEARN_CS.csproj|solutionrelative:ltem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +48,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "ltem.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\ltem.cs",
               "RelativeDocumentMoniker": "ltem.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\ltem.cs",
               "RelativeToolTip": "ltem.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T07:06:15.142Z",
               "IsPinned": true,
@@ -48,20 +74,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj",
+              "RelativeDocumentMoniker": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj",
+              "RelativeToolTip": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-20T08:21:35.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "jelly.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.json",
+              "RelativeDocumentMoniker": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.json",
+              "RelativeToolTip": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-20T07:33:58.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jelly.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Jelly.cs",
+              "RelativeDocumentMoniker": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Jelly.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Jelly.cs",
+              "RelativeToolTip": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Jelly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:35:15.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Item.json",
+              "RelativeDocumentMoniker": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Item.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Item.json",
+              "RelativeToolTip": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Item.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-20T06:00:29.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Root.cs",
+              "RelativeDocumentMoniker": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Root.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Root.cs",
+              "RelativeToolTip": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Root.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:59:52.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Program.cs",
+              "RelativeToolTip": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:57:42.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAtwB4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T08:33:21.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ltem2.json",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\ltem2.json",
               "RelativeDocumentMoniker": "ltem2.json",
@@ -73,16 +177,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Item.json",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\Item.json",
               "RelativeDocumentMoniker": "Item.json",
@@ -95,13 +191,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Csharp\\LEARN_CS\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:20:29.417Z",
               "EditorCaption": ""

@@ -10,22 +10,21 @@ namespace LEARN_CS
     internal class Class1
     {
         [JsonProperty("LABEL")]
-
         public int LABEL { get; set; }
         
-        public string ITEMNAME { get; set; }
         [JsonProperty("ITEM NAME")]
+        public string ITEMNAME { get; set; }
 
-        public string STATNAME { get; set; }
         [JsonProperty("STAT NAME")]
-        public string STATVALUE { get; set; }
+        public string STATNAME { get; set; }
         [JsonProperty("STAT VALUE")]
+        public string STATVALUE { get; set; }
 
-        public string Rating { get; set; }
         [JsonProperty("Rating")]
+        public string Rating { get; set; }
 
-        public string ID { get; set; }
         [JsonProperty("ID")]
+        public string ID { get; set; }
 
 
     } 

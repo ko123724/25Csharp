@@ -1,0 +1,138 @@
+[
+  {
+    "LABEL ": 1,
+    "ITEM NAME": "도란의검",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 10,
+    "PRICE": 450,
+    "": ""
+  },
+  {
+    "LABEL ": 2,
+    "ITEM NAME": "도란의방패",
+    "STAT NAME": "체력",
+    "STAT VALUE": 110,
+    "PRICE": 450,
+    "": ""
+  },
+  {
+    "LABEL ": 3,
+    "ITEM NAME": "수확의낫",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 7,
+    "PRICE": 450,
+    "": ""
+  },
+  {
+    "LABEL ": 4,
+    "ITEM NAME": "처형인의대검",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 15,
+    "PRICE": 800,
+    "": ""
+  },
+  {
+    "LABEL ": 5,
+    "ITEM NAME": "흡혈의낫",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 15,
+    "PRICE": 900,
+    "": ""
+  },
+  {
+    "LABEL ": 6,
+    "ITEM NAME": "콜필드의전투망치",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 20,
+    "PRICE": 1050,
+    "": ""
+  },
+  {
+    "LABEL ": 7,
+    "ITEM NAME": "온기가필요한자의도끼",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 20,
+    "PRICE": 1200,
+    "": ""
+  },
+  {
+    "LABEL ": 8,
+    "ITEM NAME": "열정의검",
+    "STAT NAME": "공격속도",
+    "STAT VALUE": "15%",
+    "PRICE": 1200,
+    "": ""
+  },
+  {
+    "LABEL ": "",
+    "ITEM NAME": "",
+    "STAT NAME": "",
+    "STAT VALUE": "",
+    "PRICE": "",
+    "": ""
+  },
+  {
+    "LABEL ": "LABEL",
+    "ITEM NAME": "ITEM NAME",
+    "STAT NAME": "STAT NAME",
+    "STAT VALUE": "STAT VALUE",
+    "PRICE": "Rating",
+    "": "ID"
+  },
+  {
+    "LABEL ": 1,
+    "ITEM NAME": "눈물나는 양파",
+    "STAT NAME": "공격속도",
+    "STAT VALUE": 0.7,
+    "PRICE": 3,
+    "": 1
+  },
+  {
+    "LABEL ": 2,
+    "ITEM NAME": "내면의눈",
+    "STAT NAME": "공격속도",
+    "STAT VALUE": "                      x0.51",
+    "PRICE": 2,
+    "": 2
+  },
+  {
+    "LABEL ": 3,
+    "ITEM NAME": "크리켓의 머리",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 0.5,
+    "PRICE": 4,
+    "": 4
+  },
+  {
+    "LABEL ": 4,
+    "ITEM NAME": "거울상",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 1.5,
+    "PRICE": 2,
+    "": 5
+  },
+  {
+    "LABEL ": 5,
+    "ITEM NAME": "오줌싸개",
+    "STAT NAME": "공격속도",
+    "STAT VALUE": 1.5,
+    "PRICE": 2,
+    "": 6
+  },
+  {
+    "LABEL ": 6,
+    "ITEM NAME": "순교자의 피",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 1,
+    "PRICE": 3,
+    "": 7
+  },
+  {
+    "LABEL ": 7,
+    "ITEM NAME": "보비형",
+    "STAT NAME": "공격력",
+    "STAT VALUE": 3.5,
+    "PRICE": 1,
+    "": 8
+  }
+]

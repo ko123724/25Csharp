@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\25Csharp\tsetreview2\obj\Debug\tsetreview2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\25Csharp\tsetreview2\obj\Debug\tsetreview2.csproj.CoreCompileInputs.cache
