@@ -18,6 +18,13 @@ namespace 달리기프로젝트
         int x;
         public int y;
 
+        public void start()
+        {
+            moveTick = 0;
+            x = 50;
+
+        }
+
         public void Update()
         {
             moveTick++; //mo
@@ -38,10 +45,10 @@ namespace 달리기프로젝트
         {
             renderer.Print(x, y, Name);
         }
-        public void GetScore(int px, int py, ref int currentscore)
+        public void GetScore(Player player,ref int currentscore)
         {
 
-            if (x == px && y == py)
+            if (x == player.x&& y == player.y)
             {
 
                 currentscore += Score;

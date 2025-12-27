@@ -1,12 +1,12 @@
 [
   {
     "Speed": 1,
-    "Name": "speedy",
+    "Name": "Fast",
     "Score ": 500
   },
   {
     "Speed": 3,
-    "Name": "normal",
+    "Name": "Normal",
     "Score ": 300
   },
   {
